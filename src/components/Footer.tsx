@@ -69,6 +69,7 @@ export default function Footer() {
         <div className="mt-12 pt-8 border-t border-white/10 text-center">
           <p>© {new Date().getFullYear()} Gowtham Schools. All rights reserved.</p>
           <p className="mt-2 text-purple-300">Sponsored by PADMAJA EDUCATIONAL SOCIETY</p>
+          <p className="mt-2 text-purple-300">Developed and Maintained by Gowtham Cloud Solutions Pvt Ltd</p>
         </div>
       </div>
     </footer>
